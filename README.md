@@ -14,4 +14,3 @@ A great HTML, CSS, JS dynamic landinng page made following a great online course
 - Linkedin - [Federico Andrés Jácome Castañeda](https://www.linkedin.com/in/federicojacome/)
 - Website - [To be added](https://github.com/federocky)
 
-[Back To The Top](#read-me-template)
