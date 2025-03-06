@@ -12,5 +12,5 @@ A great HTML, CSS, JS dynamic landinng page made following a great online course
 ## Author Info
 
 - Linkedin - [Federico Andrés Jácome Castañeda](https://www.linkedin.com/in/federicojacome/)
-- Website - [Portfolio](http://fedeandresdeveloper.online/)
+- Website - [Portfolio](https://federocky.github.io/PersonalWeb/)
 
